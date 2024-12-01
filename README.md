@@ -1,1 +1,1 @@
-Web & Software Dev | Trainee
+WebDev | Trainee
