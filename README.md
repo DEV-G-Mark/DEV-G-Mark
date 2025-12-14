@@ -1,5 +1,5 @@
 # About Me
-Full-stack web developer
+Full-stack web developer |
 HTML • CSS • JavaScript • PHP • MySQL
 
 # Tech Stack
